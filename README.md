@@ -9,8 +9,9 @@ $ git clone https://github.com/franklindias/djangoboys.git
 
 ######Dentro da pasta do projeto, crie sua virtualenv
 ```sh
-$ python3 -m venv myenv
+$ python3 -m venv myvenv
 ``` 
+crie exatamente como este nome: "myvenv", pois este é o que coloquei pra ignorar no .gitignore (evitar que a pasta do virtualenv vá para o git)
 
 ######Ative o virtualenv
 ```sh
